@@ -1,5 +1,7 @@
+//Hackerrank problem 
 #include <iostream>
 using namespace std;
+//MAIN FUNCTION
 int main() {
    int t;
     cin>>t;
